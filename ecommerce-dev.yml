@@ -1,3 +1,10 @@
+spring:
+  datasource:
+    username: APP
+    password: '{cipher}5c5077da18d5970cf4e70a1251c1436894f9e6eb1237ad97696eff3f2d0645dc'
+    driver-class-name: org.mariadb.jdbc.Driver
+    url: jdbc:mariadb://127.0.0.1:3306/test?characterEncoding=UTF-8&serverTimezone=UTC
+    
 token:
   expiration_time: 864000000
   secret: my_token_dev#2_changed_#444
