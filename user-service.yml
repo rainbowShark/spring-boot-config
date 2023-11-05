@@ -1,7 +1,7 @@
 spring:
   datasource:
     username: APP
-    password: '{cipher}5c5077da18d5970cf4e70a1251c1436894f9e6eb1237ad97696eff3f2d0645dc'
+    password: '{cipher}AQCZAmxqU3q6G8oeiQPlRp0gIkJ6fo3ujqQhArak+XX6HJU5u6h1pq8OT3HhKKCdYH1LL5LoxcdXHCEmmfmT/Ww6f3re+njL+03L2YQmGCqT9Ed492eGzPZfQ4YtN4fLwewVE90yu4ExCcre7r5A/X0W3GaAST8WmQIi1dvcreyxHNZPLqOV7g791Q7A+X6gN4bVkGllSJwG7Zh2MgKOZVULr2kawvx8WSWhSGQd8qFgfr5UAqFH1hiBtTAVxe7PYk5eZI31b5Qx5JnApdmDtIG10zsHb9e9gsaUc29h4AU/8wK0qL2nSpZiICfZ14cXkCUrRhyjFdp/M5kneNd0KRvVem4nqWmvW8kJhFvMa6iboK+aot/VqmhLyNw4WDSy/Ak='
     driver-class-name: org.mariadb.jdbc.Driver
     url: jdbc:mariadb://127.0.0.1:3306/test?characterEncoding=UTF-8&serverTimezone=UTC
     
